@@ -1,5 +1,11 @@
 # @scalar/api-reference
 
+## 1.3.0
+
+### Minor Changes
+
+- 37b974c: feat: expose footer slot on standalone component
+
 ## 1.2.7
 
 ### Patch Changes
