@@ -15,7 +15,6 @@ const configuration = reactive<ReferenceConfiguration>({
   },
 })
 </script>
-
 <template>
   <ApiReference :configuration="configuration" />
 </template>
